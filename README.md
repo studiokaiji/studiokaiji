@@ -3,6 +3,7 @@
 ## 🤍 Favorites
 - Photo, Music(listening & compose)
 - Programming
+- Decentralized Architecture
 - 🥩
 
 ## 🛠 Skills, Tools
@@ -12,6 +13,7 @@
   - Go
   - Shell(bash, zsh)
   - Mobile App(Swift UI, Cocoa, Flutter)
+  - Ethereum(EVM)
 - 📼 Database
   - MySQL, PostgreSQL, SQLite
   - Firestore, Realtime Database
