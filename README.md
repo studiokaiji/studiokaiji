@@ -8,7 +8,7 @@
 
 ## 🛠 Skills, Tools
 - 📱 App
-  - React
+  - React(Next.js, Gatsby, + Vite etc...)
   - Node.js
   - Go
   - Shell(bash, zsh)
@@ -21,8 +21,8 @@
   - MongoDB
 - 🏗 Infurastructure
   - AWS: EC2, S3, IAM etc...
-  - GCP: Compute Engine, Functions, IAM, Firebase
-  - Docker, Docker Compose
+  - GCP: Compute Engine, Functions, IAM, Firebase etc...
+  - Docker, Docker Compose, Minikube, K8s
 - 🖥 OS
   - Windows
   - Mac
