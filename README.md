@@ -31,6 +31,7 @@
 - 🏗 Infurastructure
   - AWS: EC2, S3, IAM etc...
   - GCP: Compute Engine, Functions, IAM, Firebase etc...
+  - Cloudflare: Workers, R2, Pages, D1
   - Docker, Docker Compose, Minikube, K8s
 - 🖥 OS
   - Windows
