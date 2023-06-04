@@ -24,7 +24,7 @@
   - Mobile App(Swift UI, Cocoa, Flutter)
   - Ethereum(EVM)
 - 📼 Database
-  - MySQL, PostgreSQL, SQLite
+  - MySQL(Planetscale), PostgreSQL, SQLite
   - Firestore, Realtime Database
   - LevelDB
   - MongoDB
