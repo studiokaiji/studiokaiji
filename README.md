@@ -1,10 +1,9 @@
 # About Me
 
 ## 🤍 Favorites
-- Photo, Music(listening & compose)
+- Photo, Music, Movie
 - Programming
 - Decentralized Architecture
-- 🥩
 
 ## 🤝 Social
 🖼 Portfolio: https://studiokaiji.com
