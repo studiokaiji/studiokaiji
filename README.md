@@ -1,8 +1,9 @@
 # About Me
 
 ## 🤍 Favorites
-- Photo, Music, Movie
-- Programming
+- Photo
+- Music
+- Movie
 - Decentralized Architecture
 
 ## 🤝 Social
