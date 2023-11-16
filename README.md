@@ -10,8 +10,6 @@
 🖼 Portfolio: https://studiokaiji.com
 
 🐦 Twitter: https://twitter.com/studiokaiji
- 
-🟣 Nostr: npub194qhhn5vzzyrsqaugfms8c7ycqjyvhyguurra450nhlweatfzxkqy8tgkd
 
 🤳 Instagram: https://instagram.com/studiokaiji
 
